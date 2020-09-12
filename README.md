@@ -16,19 +16,13 @@ I like to make cool things ( [✈️](https://www.aa.com) [🦂](https://scorpio
 
 ---
 
-> “You are an aperture through which the universe is looking at and exploring itself.”
->
-> * Alan Watts
-
----
-
 > "If you want to make an apple pie from scratch, you must first create the universe."
 >
 > * Carl Sagan
 
 ---
 
-![scorpion](docs/images/scorpion.png)
+![scorpion](./docs/images/scorpion.png)
 
 <!--
 **brettwilcox/brettwilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
