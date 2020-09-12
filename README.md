@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I like to make cool things, collaborate on interesting projects like 🦂, and creating environments for learning and growth.
+**I like to make cool things ( ✈️ 🦂 🍵 ), collaborate on interesting projects, and creating environments for learning and growth.**
 
-* 🔭 I’m currently working on scorpion.io and making cool things for American Airlines Inc.
-* 🌱 I’m currently learning React, GraphQL, and how to build API's at scale.
+* 🔭 I’m currently working on [scorpion.io](https://scorpion.io) and making cool things for [American Airlines, Inc](https://jobs.aa.com).
+* 🌱 I’m currently learning React, GraphQL, Gatsby, Next.js, Backstage, and how to build API's at scale.
 * 👯 I’m looking to collaborate on making apps, data analytics, security research, and creating better learning environments.
 * 🤔 I’m looking for help with various parts of the scorpion.io project.
 * 💬 Ask me about security, coding, business, collaboration, learning journeys, and teamwork.
