@@ -1,6 +1,6 @@
-### Hi there 🖖
+# Namaste 🖖
 
-**I like to make cool things ( [✈️](https://www.aa.com) [🦂](https://scorpion.io) [🍵](https://en.wikipedia.org/wiki/ISO_3103) ), collaborate on interesting projects, and creating environments for learning and growth.**
+I like to make cool things ( [✈️](https://www.aa.com) [🦂](https://scorpion.io) [🍵](https://en.wikipedia.org/wiki/ISO_3103) ), collaborate on interesting projects, and creating environments for learning and growth.
 
 * 🔭 - I’m currently working on [scorpion.io](https://scorpion.io) and projects for [American Airlines, Inc](https://jobs.aa.com).
 * 🌱 - I’m learning [React](https://reactjs.org), [GraphQL](https://graphql.org), [Gatsby](https://www.gatsbyjs.com), [Next.js](https://nextjs.org), [Backstage](https://backstage.io), [The Zettelkasten Method](https://zettelkasten.de), and how to build robust enterprise level API's at scale.
