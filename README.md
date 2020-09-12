@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on scorpion.io and building cool things for American Airlines Inc.
-* 🌱 I’m currently learning React, GraphQL, 
-* 👯 I’m looking to collaborate on large data analytics projects, security research, and creating learning environments.
-* 🤔 I’m looking for help with various parts of the scorpion project.
-* 💬 Ask me about security, coding, business, collaboration, learning journeys, and teamword.
+* 🔭 I’m currently working on scorpion.io and making cool things for American Airlines Inc.
+* 🌱 I’m currently learning React, GraphQL, and how to build API's at scale.
+* 👯 I’m looking to collaborate on data analytics, security research, and creating better learning environments.
+* 🤔 I’m looking for help with various parts of the scorpion.io project.
+* 💬 Ask me about security, coding, business, collaboration, learning journeys, and teamwork.
 * 📫 How to reach me: brett@scorpion.io
 * ⚡ Fun fact: Did you know that scorpions can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively `inactive lifestyle` . Just like me...
 
