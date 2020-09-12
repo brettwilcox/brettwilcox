@@ -22,7 +22,7 @@ I like to make cool things ( [✈️](https://www.aa.com) [🦂](https://scorpio
 
 ---
 
-![scorpion]([./docs/images/scorpion.png](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png))
+![scorpion](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png)
 
 <!--
 **brettwilcox/brettwilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
