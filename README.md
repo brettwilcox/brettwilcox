@@ -1,6 +1,6 @@
 ### Namaste 🖖
 
-I like to make cool things ( [✈️](https://jobs.aa.com) [🦂](https://scorpion.io) [🍵](https://en.wikipedia.org/wiki/ISO_3103) ), collaborate on interesting projects, and creating environments for learning opportunities and growth.
+***I like to make cool things, collaborate on interesting projects, and creating environments for learning opportunities and growth.***
 
 ---
 
