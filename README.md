@@ -12,7 +12,7 @@ I like to make cool things ( [✈️](https://www.aa.com) [🦂](https://scorpio
 * 📫 - How to reach me: brett@scorpion.io.
 * ⚡ - Fun fact: Did you know that [scorpions](https://en.wikipedia.org/wiki/Scorpion) can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively `inactive lifestyle` . Just like me...
 * 🍵 - [Tea, Earl Grey, hot](https://en.wikipedia.org/wiki/ISO_3103).
-* 🍪 - Works extra hard when presented with cookies as a reward. My enjoyment of food is directly proportional to the effort I put in...
+* 🍪 - Works extra hard when presented with cookies as a reward.
 
 ---
 
@@ -22,7 +22,9 @@ I like to make cool things ( [✈️](https://www.aa.com) [🦂](https://scorpio
 
 ---
 
-![scorpion](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png)
+[![scorpion](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png)][link1]
+
+[link1]: https://scorpion.io
 
 <!--
 **brettwilcox/brettwilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
