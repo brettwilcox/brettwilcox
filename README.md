@@ -26,8 +26,8 @@
 | :-: | :-:  |
 | [![scorpion.io](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png)][link1] | [![jobs.aa.com](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/aa_logo.png)][link2] |
 
-[link1]: https://scorpion.io
-[link2]: https://jobs.aa.com
+[link1]: https://github.com/scorpion
+[link2]: https://github.com/AmericanAirlines
 
 <!--
 **brettwilcox/brettwilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
