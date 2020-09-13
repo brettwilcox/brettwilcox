@@ -1,6 +1,6 @@
 ### Namaste 🖖
 
-***I like to make cool things, collaborate on interesting projects, and creating environments for learning opportunities and growth.***
+***I love creating environments for learning opportunities and growth, making cool things, and collaborate on interesting projects.***
 
 ---
 
