@@ -5,7 +5,7 @@
 ---
 
 * 🔭 - I’m currently working on [scorpion.io](https://scorpion.io) and projects for [American Airlines, Inc](https://jobs.aa.com).
-* 🌱 - I’m learning [Rust](https://www.rust-lang.org),[React](https://reactjs.org), [GraphQL](https://graphql.org), [Gatsby](https://www.gatsbyjs.com), [Next.js](https://nextjs.org), [Backstage](https://backstage.io), [Zettelkasten Method](https://zettelkasten.de), and how to build robust enterprise level API's at scale.
+* 🌱 - I’m learning [Rust](https://www.rust-lang.org), [React](https://reactjs.org), [GraphQL](https://graphql.org), [Gatsby](https://www.gatsbyjs.com), [Next.js](https://nextjs.org), [Backstage](https://backstage.io), [Zettelkasten Method](https://zettelkasten.de), and how to build robust enterprise level API's at scale.
 * 👯 - I’m looking to collaborate on app development, data analytics, security, research, and making enjoyable learning environments.
 * 🤔 - I’m looking for help with various parts of the [scorpion](https://github.com/scorpion/scorpion/issues) project.
 * 💬 - Ask me about security, coding, business, collaboration, learning journeys, teamwork, ethics, and philosophy.
