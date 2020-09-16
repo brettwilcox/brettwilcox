@@ -1,4 +1,4 @@
-### 🖖 Namaste
+### Namaste 🖖
 
 **_I love creating environments for learning opportunities and growth, making cool things, and collaborating on interesting projects._**
 
