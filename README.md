@@ -13,7 +13,7 @@
 - ⚡ - Fun fact: Did you know that [scorpions](https://en.wikipedia.org/wiki/Scorpion) can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively `inactive lifestyle` . Just like me...
 - 🍵 - [Tea, Earl Grey, hot](https://en.wikipedia.org/wiki/ISO_3103).
 - 🍪 - Works extra hard when presented with cookies as a reward.
-- 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC F5C8 9821 4D2C 080B](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/public_key.asc)
+- 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC `F5C8` `9821` `4D2C` `080B`](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/public_key.asc)
 
 ---
 
