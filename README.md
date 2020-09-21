@@ -11,13 +11,13 @@
 - 👯 - I’m looking to collaborate on app development, data analytics, security, research, and making enjoyable learning environments.
 - 🤔 - I’m looking for help with various parts of the [scorpion](https://github.com/scorpion/scorpion/issues) project.
 - 💬 - Ask me about security, coding, business, collaboration, learning journeys, teamwork, ethics, and philosophy.
-- 📬 - How to reach me: brett@scorpion.io.
-    > 🙅 - If it’s related to an issue for a project I manage, please tag me here on github (@brettwilcox)
 - ⚡ - Fun fact: Did you know that [scorpions](https://en.wikipedia.org/wiki/Scorpion) can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively `inactive lifestyle` . Just like me...
 - 🍵 - [Tea, Earl Grey, hot](https://en.wikipedia.org/wiki/ISO_3103).
 - 🍪 - Works extra hard when presented with cookies as a reward.
 - 🔐 - [Keybase ID](https://keybase.io/brettwilcox)
 - 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC `F5C8 9821 4D2C 080B`](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/public_key.asc)
+- 📬 - How to reach me: brett@scorpion.io.
+    > 🙅 - If it’s related to an issue for a project I manage, please tag me here on github (@brettwilcox)
 
 ---
 
