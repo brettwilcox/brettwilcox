@@ -2,7 +2,7 @@
 
 **_I love creating environments for learning opportunities and growth, making cool things, and collaborating on interesting projects._**
 
-[`👽`](https://github.com/brettwilcox/brettwilcox/blob/master/docs/EMOJI.md "Emoji Cheat Sheet")
+[`👽 Emoji Cheat Sheet`](https://github.com/brettwilcox/brettwilcox/blob/master/docs/EMOJI.md)
 
 ---
 
