@@ -1,8 +1,6 @@
 Markdown: Syntax
 ================
 
-#docs #help
-
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
