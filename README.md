@@ -2,7 +2,7 @@
 
 **_I love creating environments for learning opportunities and growth, making cool things, and collaborating on interesting projects._**
 
-[`👽 Emoji's Cheat Sheet`](docs/EMOJI.md) [`📝 Markdown Cheat Sheet`](docs/CHEAT_SHEET.md) [`📘 Markdown Guide`](docs/MARKDOWN.md)
+[`👽 Emoji's Cheat Sheet`](docs/EMOJI.md) [`📝 Markdown Cheat Sheet`](docs/CHEAT_SHEET.md) [`📘 Markdown`](docs/MARKDOWN.md) [`📘 MultiMarkdown`](docs/MULTIMARKDOWN.md)
 
 ---
 
