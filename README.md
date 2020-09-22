@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 - I’m currently working on [🦂 scorpion.io](https://scorpion.io) and projects for [✈️ American Airlines, Inc](https://jobs.aa.com).
+- 🔭 - I’m currently working on [scorpion.io 🦂](https://scorpion.io) and projects for [American Airlines, Inc ✈️](https://jobs.aa.com).
 - 🌱 - I’m learning [Rust](https://www.rust-lang.org), [React](https://reactjs.org), [GraphQL](https://graphql.org), [Gatsby](https://www.gatsbyjs.com), [Next.js](https://nextjs.org), [Backstage](https://backstage.io), [Zettelkasten Method](https://zettelkasten.de), and how to build robust enterprise level API's at scale.
 - 👯 - I’m looking to collaborate on app development, data analytics, security, research, and making enjoyable learning environments.
 - 🤔 - I’m looking for help with various parts of the [scorpion](https://github.com/scorpion/scorpion/issues) project.
@@ -18,7 +18,7 @@
 - 🔐 - [Keybase ID](https://keybase.io/brettwilcox)
 - 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC `F5C8 9821 4D2C 080B`](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/public_key.asc)
 - 📬 - How to reach me: brett@scorpion.io.
-    > 🙅 - If it’s related to an issue for a project I manage, please tag me here on github (`@brettwilcox`)
+  > 🙅 - If it’s related to an issue for a project I manage, please tag me here on github (`@brettwilcox`)
 
 ---
 
