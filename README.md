@@ -18,7 +18,7 @@
 - 🔐 - [Keybase ID](https://keybase.io/brettwilcox)
 - 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC `F5C8 9821 4D2C 080B`](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/public_key.asc)
 - 📬 - How to reach me: brett@scorpion.io.
-  > 🙅 - If it’s related to an issue for a project, please tag me here on github (`@brettwilcox`)
+  > 🙅 - If it’s related to an issue, please tag me here on github (`@brettwilcox`)
 
 ---
 
