@@ -12,11 +12,7 @@
 - 🤔 - I’m looking for help with various parts of the [scorpion](https://github.com/scorpion/scorpion/issues) project.
 - 💬 - Ask me about security, coding, business, collaboration, learning journeys, teamwork, ethics, and philosophy.
 - ❤️ - Current obsessions: [The Archive](https://zettelkasten.de/the-archive/), [iA Writer](https://ia.net/writer), [ProcessWire](https://processwire.com), [Dash](https://kapeli.com/dash), [VSCode](https://code.visualstudio.com), [Rust](https://www.rust-lang.org).
-- 👀 - Fun fact: Did you know that [scorpions](https://en.wikipedia.org/wiki/Scorpion) can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively `inactive lifestyle` . Just like me...
-- 🍿 - What I'm enjoying.
-  > 🎥 - Tenet  
-  > 📺 - The Good Place  
-  > 📻 - Daft Punk
+- 👀 - Did you know that [scorpions](https://en.wikipedia.org/wiki/Scorpion) can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively inactive lifestyle. `Just like me...`
 - 🍵 - [Tea, Earl Grey, hot](https://en.wikipedia.org/wiki/ISO_3103).
 - 🍪 - Works extra hard when presented with cookies as a reward.
 - 🔐 - [Keybase ID](https://keybase.io/brettwilcox).
