@@ -11,7 +11,7 @@
 - 👥 - I’m looking to collaborate on app development, data analytics, security, research, and making enjoyable learning environments.
 - 🤔 - I’m looking for help with various parts of the [scorpion](https://github.com/scorpion/scorpion/issues) project.
 - 💬 - Ask me about security, coding, business, collaboration, learning journeys, teamwork, ethics, and philosophy.
-- ❤️ - Current obsessions: [The Archive](https://zettelkasten.de/the-archive/), [iA Writer](https://ia.net/writer), [ProcessWire](https://processwire.com), [Dash](https://kapeli.com/dash), [VSCode](https://code.visualstudio.com), [Rust](https://www.rust-lang.org).
+- ❤️ - Current obsessions: Learning Management Systems, [Rust](https://www.rust-lang.org).
 - 👀 - Did you know that [scorpions](https://en.wikipedia.org/wiki/Scorpion) can consume large amounts of food in one sitting? They have an efficient food storage organ and a very low metabolic rate, and a relatively inactive lifestyle. `Just like me...`
 - 🍵 - [Tea, Earl Grey, hot](https://en.wikipedia.org/wiki/ISO_3103).
 - 🍪 - Works extra hard when presented with cookies as a reward.
