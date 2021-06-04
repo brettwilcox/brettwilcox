@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  edge:
+    build:
+      context: './docker/proxy'
+    restart: unless-stopped
+    ports:
+      - '80:80'
+      - '443:443'
+    volumes:
+      - ./docker/proxy/config/Caddyfile:/etc/caddy/Caddyfile
+      - ./build:/srv
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:

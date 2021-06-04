@@ -1,0 +1,48 @@
+[package]
+name = "scorpion"
+version = "0.1.4"
+authors = ["Brett Wilcox <brett@scorpion.io>"]
+edition = "2018"
+description = "Command Line Interface for the scorpion.io project."
+license = "Apache-2.0"
+readme = "README.md"
+homepage = "https://scorpion.io"
+repository = "https://github.com/scorpion/cli/"
+keywords = ["cli", "scorpion"]
+categories = ["command-line-utilities"]
+
+# .deb Package Data - https://crates.io/crates/cargo-deb
+[package.metadata.deb]
+maintainer = "Brett Wilcox <brett@scorpion.io>"
+copyright = "2020, scorpion.io <hello@scorpion.io>"
+license-file = ["LICENSE", "4"]
+extended-description = """\
+Command Line Interface for the scorpion.io project."""
+depends = "$auto"
+section = "utility"
+priority = "optional"
+assets = [
+    ["target/release/cargo-deb", "usr/bin/", "755"],
+    ["README.md", "usr/share/doc/cargo-deb/README", "644"],
+]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+indicatif = "0.15"
+juniper = "0.14"
+hostname = "0.3"
+openssl = "0.10"
+git2 = "0.13"
+curl = "0.4"
+rand = "0.7"
+log = "0.4"
+config = "0.10"
+bollard = "0.8"
+credentials = "0.12"
+serde = "1.0"
+serde_json = "1.0"
+uuid = "0.8"
+url = "2.1"
+chrono = "0.4"
