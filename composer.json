@@ -3,7 +3,8 @@
 	"description": "Repo for Brett Wilcox",
 	"type": "project",
 	"require": {
-		"processwire/processwire": "^3.0"
+		"processwire/processwire": "^3.0",
+		"vlucas/phpdotenv": "^5.3"
 	},
 	"license": "proprietary",
 	"authors": [

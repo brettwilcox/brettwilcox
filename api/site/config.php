@@ -37,22 +37,6 @@ if (!defined("PROCESSWIRE")) die();
 $dotenv = \Dotenv\Dotenv::createUnsafeImmutable(dirname(__DIR__, 3));
 $dotenv->load();
 
-###############################################################
-# Meta plugins
-
-$plugin_base = dirname(__DIR__, 3) . "/plugins"; //Directory of plugins
-$plugin_type = "meta";
-$plugin_ext = '.plugin.php'; // Our plugin Extension
-
-$plugins = array_diff(scandir($plugin_base . "/" . $plugin_type), array('..', '.'));
-
-foreach ($plugins as $plugin) {
-    if ($plugin != "example") {
-        $plugin_base_file = $plugin_base . "/" . $plugin_type .  "/"  . $plugin .  "/"  . $plugin . $plugin_ext;
-        include $plugin_base_file;
-    }
-}
-
 /*** SITE CONFIG *************************************************************************/
 
 /** @var Config $config */
