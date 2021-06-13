@@ -1,5 +1,5 @@
 <?php
 namespace Processwire;
 
-require '/../vendor/autoload.php';
+require '../../vendor/autoload.php';
 phpinfo();
