@@ -1,0 +1,15 @@
+{
+	"name": "brettwilcox/brettwilcox",
+	"description": "Repo for Brett Wilcox",
+	"type": "project",
+	"require": {
+		"processwire/processwire": "^3.0"
+	},
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brett Wilcox",
+			"email": "brett@brettwilcox.com"
+		}
+	]
+}
