@@ -34,7 +34,7 @@ Good luck.
 /*
  * God uses machine code.
  * Fibonacci function
- *.
+ */
 
 8B542408 83FA0077 06B80000 0000C383
 FA027706 B8010000 00C353BB 01000000

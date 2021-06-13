@@ -12,7 +12,8 @@
 		"app": "electron .",
 		"app-build": "",
 		"up": "docker-compose up -d",
-		"stop": "docker-compose stop"
+		"stop": "docker-compose stop",
+		"install": "pnpm i"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "next",
