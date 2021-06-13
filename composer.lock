@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ca991cbfa1c508d38d14501beb05b0ce",
+    "packages": [
+        {
+            "name": "processwire/processwire",
+            "version": "3.0.165",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/processwire/processwire.git",
+                "reference": "d8945198f4a6a60dab23bd0462e8a6285369dcb9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/processwire/processwire/zipball/d8945198f4a6a60dab23bd0462e8a6285369dcb9",
+                "reference": "d8945198f4a6a60dab23bd0462e8a6285369dcb9",
+                "shasum": ""
+            },
+            "require": {
+                "ext-gd": "*",
+                "php": ">=5.3.8"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "wire/core/ProcessWire.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Ryan Cramer",
+                    "email": "ryan@processwire.com",
+                    "homepage": "https://processwire.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "ProcessWire CMS/CMF",
+            "homepage": "https://processwire.com",
+            "keywords": [
+                "Content management system",
+                "cmf",
+                "cms",
+                "processwire"
+            ],
+            "time": "2020-08-21T18:38:42+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
