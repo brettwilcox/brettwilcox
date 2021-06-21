@@ -1,5 +1,7 @@
 <script>
-	/** What should we call the user? */
+	/**
+	 * What should we call the user?
+	 */
 	export let name = 'world';
 
 </script>

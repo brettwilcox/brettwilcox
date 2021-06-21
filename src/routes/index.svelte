@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>SIM</title>
+	<title>Brett Wilcox</title>
 </svelte:head>
 
 <div class="bg-white dark:bg-gray-800">
