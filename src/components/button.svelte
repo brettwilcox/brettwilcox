@@ -2,8 +2,7 @@
 	/**
 	 * What should we call the user?
 	 */
-	export let name = 'world';
-
+	export let name = "world";
 </script>
 
 <!--

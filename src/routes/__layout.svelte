@@ -1,22 +1,50 @@
 <script>
 	import "../app.postcss";
 
-	import { waitLocale } from "svelte-i18n";
+	import {
+		register,
+		isLoading,
+		locale,
+		locales,
+		_,
+		init,
+		getLocaleFromNavigator,
+	} from "svelte-i18n";
 
-	export async function preload() {
-		// awaits for the loading of the 'en-US' and 'en' dictionaries
-		return waitLocale();
-	}
+	register("en", () => import("../locales/en.json"));
+
+	init({
+		fallbackLocale: "en",
+		initialLocale: getLocaleFromNavigator(),
+	});
 </script>
+
+{#if $isLoading}
 
 <div>
 	<nav>
-		<a href="/">Home</a>
-		<a href="/about">About</a>
-		<a href="/settings">Settings</a>
-		<a href="/admin">Admin</a>
-		<a href="/login">Login</a>
+		Loading Nav...
 	</nav>
 </div>
+
+{:else}
+
+	<div>
+		<nav>
+			<a href="/">Home</a>
+			<a href="/about">{$_("page.about.nav")}</a>
+			<a href="/settings">Settings</a>
+			<a href="/admin">Admin</a>
+			<a href="/login">Login</a>
+		</nav>
+	</div>
+
+{/if}
+
+<select bind:value={$locale}>
+	{#each $locales as locale}
+		<option value={locale}>{locale}</option>
+	{/each}
+</select>
 
 <slot />

@@ -1,8 +1,13 @@
 {
+	"site": {
+		"name": "Brett Wilcox",
+		"url": ""
+	},
+
 	"page": {
 		"home": {
 			"title": "Homepage",
-			"nav": "Home"
+			"nav": "home2"
 		},
 		"about": {
 			"title": "About",
@@ -10,10 +15,12 @@
 		},
 		"contact": {
 			"title": "Contact",
-			"nav": "Contact Us"
+			"nav": "Contact"
 		}
 	},
+
 	"buttons": {
-		"submit": "Submit"
+		"submit": "Submit",
+		"cancel": "Cancel"
 	}
 }
