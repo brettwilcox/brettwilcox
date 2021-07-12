@@ -1,13 +1,12 @@
 {
 	"site": {
-		"name": "Brett Wilcox",
-		"url": ""
+		"name": "Brett Wilcox"
 	},
 
 	"page": {
 		"home": {
 			"title": "Homepage",
-			"nav": "home2"
+			"nav": "Home"
 		},
 		"about": {
 			"title": "About",

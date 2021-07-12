@@ -9,6 +9,7 @@
 		_,
 		init,
 		getLocaleFromNavigator,
+		waitLocale,
 	} from "svelte-i18n";
 
 	register("en", () => import("../locales/en.json"));
@@ -17,18 +18,17 @@
 		fallbackLocale: "en",
 		initialLocale: getLocaleFromNavigator(),
 	});
+
+	export async function preload() {
+		return waitLocale();
+	}
 </script>
 
 {#if $isLoading}
-
-<div>
-	<nav>
-		Loading Nav...
-	</nav>
-</div>
-
+	<div>
+		<nav>Loading Nav...</nav>
+	</div>
 {:else}
-
 	<div>
 		<nav>
 			<a href="/">Home</a>
@@ -38,13 +38,10 @@
 			<a href="/login">Login</a>
 		</nav>
 	</div>
-
 {/if}
-
 <select bind:value={$locale}>
 	{#each $locales as locale}
 		<option value={locale}>{locale}</option>
 	{/each}
 </select>
-
 <slot />

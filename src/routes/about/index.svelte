@@ -1,13 +1,17 @@
 <script>
-	import { _ } from "svelte-i18n";
+	import { isLoading, _ } from "svelte-i18n";
 </script>
 
 <svelte:head>
-	<title>About sim.sh</title>
+	{#if $isLoading}
+		<title>Loading...</title>
+	{:else}
+		<title>{$_("page.about.title")} - {$_("site.name")}</title>
+	{/if}
 </svelte:head>
 
-<h1>About Brett</h1>
-<p>
-	Simulation shell is dedicated to the study of human mechanisms and their
-	replacement by mechanical or electronic systems.
-</p>
+{#if $isLoading}
+	<h1>Loading...</h1>
+{:else}
+	<h1>{$_("page.about.title")} {$_("site.name")}</h1>
+{/if}
