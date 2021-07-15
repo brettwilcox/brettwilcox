@@ -6,28 +6,10 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Dev",
-			"command": "pnpm dev",
-			"request": "launch",
-			"type": "node-terminal"
-		},
-		{
-			"name": "Electron",
-			"command": "pnpm dev-app",
-			"request": "launch",
-			"type": "node-terminal"
-		},
-		{
 			"name": "Edge",
 			"type": "edge",
 			"request": "launch",
 			"url": "http://localhost:3000"
-		},
-		{
-			"name": "Edge with xDebug",
-			"type": "edge",
-			"request": "launch",
-			"url": "http://xdebug.localhost/"
 		},
 		{
 			"name": "Firefox",
