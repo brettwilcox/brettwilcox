@@ -1,0 +1,11 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+# Track Microsoft Office documents.
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+# Executables
+*.exe filter=lfs diff=lfs merge=lfs -text
+# Image Documents
+*.afdesign filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
