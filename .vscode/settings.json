@@ -3,5 +3,72 @@
 	"[svelte]": {
 		"editor.defaultFormatter": "svelte.svelte-vscode"
 	},
-	"i18n-ally.keystyle": "nested"
+	"i18n-ally.keystyle": "nested",
+	"editor.fontSize": 15,
+	"editor.fontFamily": "Operator Mono Lig, Fira Code iScript",
+	"files.associations": {
+		"*.micro": "6502",
+		"*.module": "php"
+	},
+	"editor.codeLens": false,
+	"editor.fontLigatures": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"diffEditor.codeLens": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.suggestSelection": "first",
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
+	"workbench.colorCustomizations": {
+		"[Material Theme Ocean High Contrast]": {
+			"activityBarBadge.background": "#FFA000",
+			"activityBar.activeBorder": "#FFA000",
+			"list.activeSelectionForeground": "#FFA000",
+			"list.inactiveSelectionForeground": "#FFA000",
+			"list.highlightForeground": "#FFA000",
+			"scrollbarSlider.activeBackground": "#FFA00050",
+			"editorSuggestWidget.highlightForeground": "#FFA000",
+			"textLink.foreground": "#FFA000",
+			"progressBar.background": "#FFA000",
+			"pickerGroup.foreground": "#FFA000",
+			"tab.activeBorder": "#FFA000",
+			"notificationLink.foreground": "#FFA000",
+			"editorWidget.resizeBorder": "#FFA000",
+			"editorWidget.border": "#FFA000",
+			"settings.modifiedItemIndicator": "#FFA000",
+			"settings.headerForeground": "#FFA000",
+			"panelTitle.activeBorder": "#FFA000",
+			"breadcrumb.activeSelectionForeground": "#FFA000",
+			"menu.selectionForeground": "#FFA000",
+			"menubar.selectionForeground": "#FFA000",
+			"editor.findMatchBorder": "#FFA000",
+			"selection.background": "#FFA00040",
+			"statusBarItem.remoteBackground": "#FFA000"
+		}
+	},
+	"workbench.colorTheme": "Material Theme Ocean High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.tips.enabled": false,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"githubIssues.queries": [
+		{
+			"label": "My Issues",
+			"query": "default"
+		},
+		{
+			"label": "Created Issues",
+			"query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+		}
+	],
+	"gitlens.codeLens.authors.enabled": false,
+	"php.suggest.basic": false,
+	"php.validate.enable": false,
+	"projectManager.git.baseFolders": ["d:/Dev"],
+	"python.languageServer": "Pylance",
+	"redhat.telemetry.enabled": false
 }
