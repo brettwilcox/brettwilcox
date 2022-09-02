@@ -16,7 +16,7 @@
 - 🍵 - [Tea, Earl Grey, hot](https://en.wikipedia.org/wiki/ISO_3103).
 - 🍪 - Works extra hard when presented with cookies as a reward.
 - 🔐 - [Keybase ID](https://keybase.io/brettwilcox).
-- 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC `F5C8 9821 4D2C 080B`](https://gist.githubusercontent.com/brettwilcox/195560f183d04e329f1b1d8631366a3f/raw/cb3e4b2d2f8a4fdf483d21497cb00ef381597b15/public_key.asc)
+- 🔑 - GPG Fingerprint = [74F3 22B7 6ABE E185 9863 1DCC `F5C8 9821 4D2C 080B`](https://gist.githubusercontent.com/brettwilcox/195560f183d04e329f1b1d8631366a3f/raw/cb3e4b2d2f8a4fdf483d21497cb00ef381597b15/public_key.asc) (changing soon)
 - 📬 - How to reach me: brett@scorpion.io.
   > 🙅 - If it’s related to an issue, please tag me here on github (`@brettwilcox`)
 
